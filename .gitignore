@@ -1,0 +1,7 @@
+rentifai_env/
+__pycache__/
+*.pyc
+*.pyos
+*.pyd
+
+
